@@ -13,10 +13,10 @@ import Service from './Service';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <>
-        <BrowserRouter>
+        <BrowserRouter basename='/portfolio'>
             <Nav />
             <Routes>
-                <Route path="/" element={<Home />} />
+                <Route path="/portfolio" element={<Home />} />
                 <Route path="about" element={<About />} />
                 <Route path="contact" element={<Contactus />} />
                 <Route path="service" element={<Service/>} />
