@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/selfportfolio/static/css/main.d79804df.css",
-    "main.js": "/selfportfolio/static/js/main.6d4673f1.js",
-    "static/media/illustration2.jpg": "/selfportfolio/static/media/illustration2.06a1be71fcea1b255a31.jpg",
-    "static/media/10.png": "/selfportfolio/static/media/10.2348c110f20d3035345a.png",
-    "static/media/6.jpg": "/selfportfolio/static/media/6.512a548fbfaaec313d4c.jpg",
-    "static/media/ios.png": "/selfportfolio/static/media/ios.e48bc5701433650a67e0.png",
-    "static/media/android.png": "/selfportfolio/static/media/android.502f1ecd24f2918ec82a.png",
-    "static/media/app.png": "/selfportfolio/static/media/app.1da6cf16cf7ec457022f.png",
-    "static/media/webdesign.png": "/selfportfolio/static/media/webdesign.d09e18e6069c2d58fe81.png",
-    "static/media/webdevl.png": "/selfportfolio/static/media/webdevl.1c8bc5abbd28f9f967d3.png",
-    "static/media/iconlogo.jpg": "/selfportfolio/static/media/iconlogo.c7178e340005fccbe28d.jpg",
-    "index.html": "/selfportfolio/index.html",
-    "main.d79804df.css.map": "/selfportfolio/static/css/main.d79804df.css.map",
-    "main.6d4673f1.js.map": "/selfportfolio/static/js/main.6d4673f1.js.map"
+    "main.css": "/portfolio/static/css/main.d79804df.css",
+    "main.js": "/portfolio/static/js/main.3e2217b2.js",
+    "static/media/illustration2.jpg": "/portfolio/static/media/illustration2.06a1be71fcea1b255a31.jpg",
+    "static/media/10.png": "/portfolio/static/media/10.2348c110f20d3035345a.png",
+    "static/media/6.jpg": "/portfolio/static/media/6.512a548fbfaaec313d4c.jpg",
+    "static/media/ios.png": "/portfolio/static/media/ios.e48bc5701433650a67e0.png",
+    "static/media/android.png": "/portfolio/static/media/android.502f1ecd24f2918ec82a.png",
+    "static/media/app.png": "/portfolio/static/media/app.1da6cf16cf7ec457022f.png",
+    "static/media/webdesign.png": "/portfolio/static/media/webdesign.d09e18e6069c2d58fe81.png",
+    "static/media/webdevl.png": "/portfolio/static/media/webdevl.1c8bc5abbd28f9f967d3.png",
+    "static/media/iconlogo.jpg": "/portfolio/static/media/iconlogo.c7178e340005fccbe28d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.d79804df.css.map": "/portfolio/static/css/main.d79804df.css.map",
+    "main.3e2217b2.js.map": "/portfolio/static/js/main.3e2217b2.js.map"
   },
   "entrypoints": [
     "static/css/main.d79804df.css",
-    "static/js/main.6d4673f1.js"
+    "static/js/main.3e2217b2.js"
   ]
 }
