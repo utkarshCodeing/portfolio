@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Merriweather:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto+Slab&display=swap');
+
+.service{
+    background-color: white !important;
+    width: 100vw;
+    min-height: 100vh;
+    margin-top: 20px;
+}
+.upper{
+    display: flex;
+    justify-content: space-around;
+}
+.down{
+    display: flex;
+    justify-content: space-around;
+}
+.service-card{
+    width: 30%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-color:#fffbfb;
+    padding: 20px;
+    /* box-shadow: ; */
+    box-shadow: 8px 8px 8px  rgb(206, 200, 200),-4px -4px 8px  rgb(216, 210, 210);
+}
+.service-card:hover{
+    /* background-color: yellow; */
+    /* -ms-transform: rotate(5deg); IE 9 */
+    transform: rotate(0.5deg);
+    /* transform: matrix(); */
+  }
+.service-card img{
+    width: 100%;
+    height: 200px;
+}
+.service-h{
+    color: gray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.service h1{
+    /* font-family: 'Lobster', cursive; */
+/* font-family: 'Merriweather', serif; */
+/* font-family: 'Lobster', cursive; */
+font-family: 'Roboto Slab', serif;
+    text-align: center;
+    padding-top: 20px;
+}
+.service .service-title{
+    text-align: center;
+    font-size: 20px;
+    line-height: 0.1rem;
+
+}
+.service .upper p{
+    color: gray;
+    text-align: justify;
+}
+.service .down p{
+    color: gray;
+    text-align: justify;
+}
+.service-card img :hover{
+    width: 90%;
+}
+.btn-contact:hover{
+    background-color: #1677e6;
+    color: white;
+
+}
+.Services-link{
+    text-decoration: none;
+    color:#1677e6;
+    font-weight: bold;
+    font-size: 15px;
+    border: 2px solid #1677e6;
+    padding: 5px;
+    border-radius: 10px;
+}
+.Services-link:hover{
+    background-color:#1677e6;
+    color: white;
+}

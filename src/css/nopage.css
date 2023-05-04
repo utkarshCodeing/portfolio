@@ -1,0 +1,11 @@
+.height{
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    text-align: center;
+    /* min-height: 85vh; */
+    height: 75vh;
+}
